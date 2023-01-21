@@ -1,0 +1,5 @@
+spyne == 2.14.0
+zeep == 4.2.1
+suds-jurko == 0.6
+lxml == 4.9.2
+requests == 2.28.2
